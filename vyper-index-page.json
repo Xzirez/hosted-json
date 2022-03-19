@@ -1,0 +1,26 @@
+{
+    "homepage": {
+      "columns": [
+        {
+          "iconClassName": "fa-solid fa-user",
+          "title": "Manage risk",
+          "body": "Vyper Core allows for the permissionless creation of tranches from any yield-generating asset. From lending to yield farming, tranching is the way!"
+        },
+        {
+          "iconClassName": "fa-solid fa-user",
+          "title": "Composable",
+          "body": "Vyper is already integrated with Serum and major lending protocols, adding more by the day. This creates new and innovative use cases ready to disrupt the marke"
+        },
+        {
+          "iconClassName": "fa-solid fa-user",
+          "title": "Open",
+          "body": "Vyper Core is open source and everyone is welcome to build on it. Discover what tranching can do by digging in our docs!"
+        },
+        {
+          "iconClassName": "fa-solid fa-user",
+          "title": "Optimized",
+          "body": "Tranches tokens can be traded on Serum and even used as collateral! This increases capital efficiency and allows you to compound returns by earning yields while accessing capital at the same time"
+        }
+      ]
+    }
+  }
